@@ -20,10 +20,10 @@ This `README.md` provides information about the three real gang network datasets
 
 ### 3. Italian Co-Membership of Gangs
 
-- **Source**: [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/italian-gangs)
+- **Original Source**: [UCINET Datasets] The Italian gang network data is part of the COVERT Network datasets originally distributed by the Social Network Analysis software UCINET, public available at: https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/italian-gangs
 - **UCINET Credit**: Borgatti, S.P., Everett, M.G. and Freeman, L.C. (2002)
 - **Publication**: "Ucinet for Windows: Software for Social Network Analysis", Harvard, MA: Analytic Technologies.
-- **Details**: The dataset includes co-membership information of various Italian gangs.
+- **Details**: The dataset includes co-membership information of Italian gangs.
 
 ## Usage Instructions
 
