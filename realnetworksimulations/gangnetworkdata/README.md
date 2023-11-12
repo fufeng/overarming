@@ -1,21 +1,32 @@
-Three real gang networks used in our simulations of gun adoption rates
+# Gang Network Data for Simulations of Gun Adoption Rates
 
-These social network data are given in the specific format tailored as imports into the C++ codes
+This `README.md` provides information about the three real gang network datasets used in our simulations of gun adoption rates. These datasets are formatted specifically for import into C++ codes.
 
-1. public available Montreal street gang network data
-**Source**: http://www.casos.cs.cmu.edu/tools/datasets/external/index.php
-**Original credit:**
-Karine Descormiers and Carlo Morselli (2011) Alliances, Conflicts, and Contradictions in Montreal's Street Gang Landscape International Criminal Justice Review, Vol. 1 No. 3, pp. 297-314.
+## Dataset Overview
 
-   
-2. public available London gang network data
-  **Source:** http://www.casos.cs.cmu.edu/tools/datasets/external/index.php
-   **Original credit:**
-   Grund, T. and Densley, J. (2015) Ethnic Homophily and Triad Closure: Mapping Internal Gang Structure Using Exponential Random Graph Models. Journal of Contemporary Criminal Justice, Vol. 31, Issue 3, pp. 354-370
+### 1. Montreal Street Gang Network Data
 
-3. public available Italian co-membership of gangs
- **Source:** http://www.casos.cs.cmu.edu/tools/datasets/external/index.php
- **Original credit:** The Italian gang network data is part of the COVERT Network datasets originally distributed by the Social Network Analysis software UCINET, public available at: https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/italian-gangs
-**UCINET Credit:** Borgatti, S.P., Everett, M.G. and Freeman, L.C. 2002. Ucinet for Windows: Software for Social Network Analysis. Harvard, MA: Analytic Technologies. 
+- **Source**: [CASOS Datasets](http://www.casos.cs.cmu.edu/tools/datasets/external/index.php)
+- **Original Credit**: Karine Descormiers and Carlo Morselli (2011)
+- **Publication**: "Alliances, Conflicts, and Contradictions in Montreal's Street Gang Landscape", International Criminal Justice Review, Vol. 1 No. 3, pp. 297-314.
+- **Details**: This dataset represents the social network of street gangs in Montreal, Canada.
 
+### 2. London Gang Network Data
+
+- **Source**: [CASOS Datasets](http://www.casos.cs.cmu.edu/tools/datasets/external/index.php)
+- **Original Credit**: Grund, T. and Densley, J. (2015)
+- **Publication**: "Ethnic Homophily and Triad Closure: Mapping Internal Gang Structure Using Exponential Random Graph Models", Journal of Contemporary Criminal Justice, Vol. 31, Issue 3, pp. 354-370.
+- **Details**: This dataset provides insights into the network structure of gangs in London, UK.
+
+### 3. Italian Co-Membership of Gangs
+
+- **Source**: [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/italian-gangs)
+- **UCINET Credit**: Borgatti, S.P., Everett, M.G. and Freeman, L.C. (2002)
+- **Publication**: "Ucinet for Windows: Software for Social Network Analysis", Harvard, MA: Analytic Technologies.
+- **Details**: The dataset includes co-membership information of various Italian gangs.
+
+## Usage Instructions
+
+- Ensure that these datasets are downloaded and formatted as per the requirements of the C++ codes used for simulation.
+- For more details on data format and simulation instructions, refer to the specific documentation of the C++ simulation codes.
 
