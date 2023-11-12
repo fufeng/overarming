@@ -10,7 +10,7 @@ This project includes a Mathematica Notebook and C++ codes, which are used to si
 
 ### Mathematica Notebook for Figures
 
-- **Location**: `/mathematica/gitResults`
+- **Location**: `gitResults.nb`
 - **Description**: This Mathematica Notebook can be used to reproduce main Figures 1-4 and supplementary Figures S1-S5.
 - **Usage Note**: The notebook utilizes compiled simulation data located in the `/mathematica` directory.
 
@@ -22,14 +22,14 @@ This project includes a Mathematica Notebook and C++ codes, which are used to si
 
 ### Real Social Network Data Files
 
-- **Location**: `/realnetworksimulations`
+- **Location**: `/realnetworksimulations/gangnetworkdata`
 - **Description**: This directory includes the anonymized, coded social network data files used in our simulations.
 - **Sources and Credits**: For information about the source and credits of these publicly available data files, please refer to the `readme.md` file in the same directory.
 
 ## Instructions
 
-1. **For Mathematica Simulations**:
-   - Navigate to `/mathematica/gitResults`.
+1. **For Mathematica Notebook**:
+   - Navigate to `gitResults.nb`.
    - Open and run the Mathematica Notebook to generate the figures.
 
 2. **For C++ Simulations**:
