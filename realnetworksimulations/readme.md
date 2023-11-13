@@ -21,9 +21,9 @@ This guide provides detailed steps to run simulations on real social networks us
 1. Open your terminal or command prompt.
 2. Navigate to the directory containing the `networkgames.cpp` file.
 3. Compile the code using the following command: 
-`g++ -o networkgames networkgames.cpp'
+`g++ -o networkgames networkgames.cpp`
 4. Execute the compiled program:
-`./networkgames'
+`./networkgames`
 
 ### Step 4: Access Simulation Data
 - After running the simulation, all output data will be saved in plain text files within the same directory.
