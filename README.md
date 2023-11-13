@@ -11,7 +11,7 @@ This project includes a Mathematica Notebook and C++ codes, which are used to si
 ### Mathematica Notebook for Figures
 
 - **Location**: `gitResults.nb`
-- **Description**: This Mathematica Notebook can be used to reproduce main Figures 1-4 and supplementary Figures S1-S5.
+- **Description**: This Mathematica Notebook (version 13.0.0.0) can be used to reproduce main Figures 1-4 and supplementary Figures S1-S5.
 - **Usage Note**: The notebook utilizes compiled simulation data located in the `/mathematica` directory.
 
 ### C++ Codes for Simulating Gun Adoption Rates
