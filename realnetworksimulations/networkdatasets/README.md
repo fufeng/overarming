@@ -4,13 +4,13 @@ This `README.md` provides information about the three real network datasets used
 
 ## Dataset Overview
 
-### 1. Montreal Gang Network Data
+### 1. Gang Network Data
 
 - **Original Credit**: Karine Descormiers and Carlo Morselli (2011)
 - **Publication**: "Alliances, Conflicts, and Contradictions in Montreal's Street Gang Landscape", International Criminal Justice Review, Vol. 1 No. 3, pp. 297-314.
 - **Details**: This dataset represents the social network of street gangs in Montreal, Canada.
 
-### 2. Honduras Village Network Data
+### 2. Village Network Data
 
 - **Original Credit**: Kim, David A., Alison R. Hwong, Derek Stafford, D. Alex Hughes, A. James O'Malley, James H. Fowler, and Nicholas A. Christakis (2015)
 - **Publication**:  "Social network targeting to maximise population behaviour change: a cluster randomised controlled trial." The Lancet 386, no. 9989 (2015): 145-153.
